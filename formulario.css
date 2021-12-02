@@ -38,6 +38,7 @@ body{
     justify-content: center;
 }
 
+
 /* Elementos de tags <body>, <input>, <Select>, <textarea> e <button> */
 input, select, textarea, button {
     font-family: sans-serif;
@@ -103,7 +104,7 @@ fieldset.grupo .campo {
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     position: absolute;
-    top: 90%;
+    top: 750px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
